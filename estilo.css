@@ -1,0 +1,71 @@
+body {
+			background: #d2d2c1 url(projeto_Ana_Bella/fundo.png);
+
+			font: 16px Arial, helvetica, sans-serif;
+	
+	
+}
+
+#principal {
+
+
+	border:1px solid red;
+	width: 1000px;
+	
+
+}
+
+
+
+#menu {
+	background: #c5c5b2;
+	padding: 18px;
+	border:1px solid red;
+}
+
+A {
+	color: #4b566a;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
+
+#conteudo {
+	background: #FBF8EB ;
+	padding: 15px;
+}
+
+#rodape {
+	text-align: center;
+}
+
+h1 {
+	color: #828271;
+	font-size: 1.2em;
+}
+
+.borda_ima {
+	border: 8px solid #c5c5b2;
+}
+
+.index, .biografia, .campanhas, .contato {
+	text-decoration: underline; 
+	cursor: text;
+}
+
+/*Biografia */
+
+
+#bio{
+	background: #FBF8EB;
+	margin: 0px;
+	float: top;
+	padding: 15px;
+}
+
+.imag3 {
+	padding-left: 25px;
+}
+
+
+
